@@ -1,0 +1,15 @@
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\bin\Debug\net6.0\Q10.exe
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\bin\Debug\net6.0\Q10.deps.json
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\bin\Debug\net6.0\Q10.runtimeconfig.json
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\bin\Debug\net6.0\Q10.dll
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\bin\Debug\net6.0\Q10.pdb
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\obj\Debug\net6.0\Q10.csproj.AssemblyReference.cache
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\obj\Debug\net6.0\Q10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\obj\Debug\net6.0\Q10.AssemblyInfoInputs.cache
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\obj\Debug\net6.0\Q10.AssemblyInfo.cs
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\obj\Debug\net6.0\Q10.csproj.CoreCompileInputs.cache
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\obj\Debug\net6.0\Q10.dll
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\obj\Debug\net6.0\refint\Q10.dll
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\obj\Debug\net6.0\Q10.pdb
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\obj\Debug\net6.0\Q10.genruntimeconfig.cache
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q10\Q10\obj\Debug\net6.0\ref\Q10.dll

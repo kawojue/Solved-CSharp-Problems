@@ -10,8 +10,6 @@
             bool areEqual = CheckIfFirstOrLastElementAreEqual(array1, array2);
 
             Console.WriteLine(areEqual);
-
-            Console.ReadKey(true);
         }
 
         public static bool CheckIfFirstOrLastElementAreEqual(int[] array1, int[] array2)

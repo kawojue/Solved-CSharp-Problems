@@ -1,0 +1,15 @@
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\bin\Debug\net6.0\Q8.exe
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\bin\Debug\net6.0\Q8.deps.json
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\bin\Debug\net6.0\Q8.runtimeconfig.json
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\bin\Debug\net6.0\Q8.dll
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\bin\Debug\net6.0\Q8.pdb
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\obj\Debug\net6.0\Q8.csproj.AssemblyReference.cache
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\obj\Debug\net6.0\Q8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\obj\Debug\net6.0\Q8.AssemblyInfoInputs.cache
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\obj\Debug\net6.0\Q8.AssemblyInfo.cs
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\obj\Debug\net6.0\Q8.csproj.CoreCompileInputs.cache
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\obj\Debug\net6.0\Q8.dll
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\obj\Debug\net6.0\refint\Q8.dll
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\obj\Debug\net6.0\Q8.pdb
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\obj\Debug\net6.0\Q8.genruntimeconfig.cache
+C:\Users\kawoj\Desktop\hehehe\Solved-CSharp-Problems\Q8\Q8\obj\Debug\net6.0\ref\Q8.dll

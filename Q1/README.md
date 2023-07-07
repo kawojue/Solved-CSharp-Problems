@@ -13,11 +13,11 @@ should say “Study”.
     6. When defining all the properties, use property concept of C#
 
 Input:
-    1. Juan
-    2. Sara
-    3. Carlos
+Juan
+Sara
+Carlos
 
 Output:
-    4. Explain
-    5. Study
-    6. Study
+Explain
+Study
+Study
